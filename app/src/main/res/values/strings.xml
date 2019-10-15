@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <string name="textview">TextView</string>
+    <string name="nuevo_perfil">Nuevo perfil:</string>
+    <string name="probar">Probar</string>
+    <string name="imagen_de_perfil">Imagen de perfil</string>
+    <string name="nombre">Nombre</string>
+    <string name="nacimiento">Nacimiento</string>
+    <string name="descripci_n">Descripción</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="descripction">descripction</string>
+    <string name="description">description</string>
+    <string name="city">city</string>
+    <string name="date">date</string>
+    <string name="name">name</string>
+</resources>
